@@ -1,0 +1,22 @@
+@charset "UTF-8";
+.nav-bar{
+    background-color: black;
+    display: flex
+}
+/* Formatação de imagens com legendas */
+
+.menu-item {
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+    float: left;
+    margin: 5px 9px;
+        
+}
+
+.menu{
+    color: white;
+}
+
+
+
